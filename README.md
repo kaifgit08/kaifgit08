@@ -5,7 +5,7 @@
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Contact😊:</font></h3>
 <p align="left">
-  <a href="ilyaskaif198@gmail.com" target="_blank" rel="noreferrer"> Click me! </a>
+  <a href="https://www.linkedin.com/in/kaif-mhd/" target="_blank" rel="noreferrer"> Click me! </a>
 </p>
 
 <!-- GIF -->
