@@ -47,7 +47,7 @@
 <p align="left">
 </p>
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Java**
 - 📫 How to reach me **[ilyaskaif198@gmail.com](mailto:ilyaskaif198@gmail.com)**
 - ⚡ Fun fact **"Did you know that the octocat, GitHub's mascot, is named 'Skeptocat'? It's a play on words combining 'skeptic' and 'cat,' embodying the curious and skeptical nature of developers exploring new code. So, let's embrace our inner Skeptocat and venture into the world of code together! 🐱💻"**
 
