@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Mohammed Kaif</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kaif-mhd/" target="_blank" rel="noreferrer">K4if</a> is a passionate full-Stack Developer from India, working on Real Time Projects .</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/kaif-mhd/" target="_blank" rel="noreferrer">K4if</a> I'm a passionate full-Stack Developer from India, working on Real Time Projects .</font></h3>
 
 <!-- Schedule a 1-on-1 Call Section -->
 <h3 align="left"><font size="+2" face="Verdana">Contact😊:</font></h3>
